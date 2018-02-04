@@ -8,7 +8,6 @@
   <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos8890" path="hardware/samsung_slsi-cm/exynos8890" remote="github" revision="cm-14.1" />
   <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos" path="hardware/samsung_slsi-cm/exynos" remote="github" revision="cm-14.1" />
   <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="cm-14.1" />
-  <project name="LineageOS/android_kernel_samsung_universal8890" path="kernel/samsung/universal8890" remote="github" revision="cm-14.1" />
   
   <!--Blobs-->
   <project name="dylanneve1-exynos/android_vendor_samsung_hero-common" path="vendor/samsung/hero-common" remote="github" revision="cm-14.1" />
@@ -18,6 +17,9 @@
   <project name="dylanneve1-exynos/android_device_samsung_herolte" path="device/samsung/herolte" remote="github" revision="xenonhd-n" />
   <project name="dylanneve1-exynos/android_device_samsung_hero-common" path="device/samsung/hero-common" remote="github" revision="cm-14.1" />
 
+  <!--Kernel-->
+  <project name="dylanneve1-exynos/android_kernel_samsung_universal8890" path="kernel/samsung/universal8890" remote="github" revision="cm-14.1" />
+  
   <!--Kernel Toolchain-->
   <project name="djb77/aarch64-cortex_a53-linux-gnueabi" path="prebuilts/gcc/linux-x86/aarch64/aarch64-cortex_a53-linux-gnueabi" remote="github" revision="gcc-6"/>
   
