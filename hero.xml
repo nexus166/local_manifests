@@ -10,7 +10,7 @@
   <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="cm-14.1" />
   
   <!--Blobs-->
-  <project name="dylanneve1-exynos/android_vendor_samsung_hero-common" path="vendor/samsung/hero-common" remote="github" revision="cm-14.1" />
+  <project name="Exodusnick/vendor_hero-common" path="vendor/samsung/hero-common" remote="github" revision="cm-14.1" />
   
   <!--Device Repos-->
   <project name="dylanneve1-exynos/android_device_samsung_hero2lte_nougat" path="device/samsung/hero2lte" remote="github" revision="xenonhd-n" />
