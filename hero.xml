@@ -13,14 +13,14 @@
   <project name="Exodusnick/vendor_hero-common" path="vendor/samsung/hero-common" remote="github" revision="cm-14.1" />
   
   <!--Device Repos-->
-  <project name="dylanneve1-exynos/android_device_samsung_hero2lte_nougat" path="device/samsung/hero2lte" remote="github" revision="xenonhd-n" />
-  <project name="dylanneve1-exynos/android_device_samsung_herolte_nougat" path="device/samsung/herolte" remote="github" revision="xenonhd-n" />
-  <project name="dylanneve1-exynos/android_device_samsung_hero-common_nougat" path="device/samsung/hero-common" remote="github" revision="cm-14.1" />
+  <project name="Exodusnick/device_hero2lte" path="device/samsung/hero2lte" remote="github" revision="cm-14.1" />
+  <project name="Exodusnick/device_herolte" path="device/samsung/herolte" remote="github" revision="cm-14.1" />
+  <project name="Exodusnick/device_hero-common" path="device/samsung/hero-common" remote="github" revision="cm-14.1" />
 
   <!--Kernel-->
-  <project name="dylanneve1-exynos/android_kernel_samsung_universal8890_nougat" path="kernel/samsung/universal8890" remote="github" revision="cm-14.1" />
+  <project name="Exodusnick/kernel_universal8890" path="kernel/samsung/universal8890" remote="github" revision="cm-14.1" />
   
   <!--Kernel Toolchain-->
-  <project name="djb77/aarch64-cortex_a53-linux-gnueabi" path="prebuilts/gcc/linux-x86/aarch64/aarch64-cortex_a53-linux-gnueabi" remote="github" revision="gcc-6"/>
+  <project clone-depth="1" name="ivanmeler/linaro" path="prebuilts/gcc/linux-x86/aarch64/aarch64-linux-linaro" remote="github" revision="master" /> 
   
 </manifest>
