@@ -14,7 +14,7 @@
   <project name="Exodusnick97/android_device_samsung_hero2lte" path="device/samsung/herolte" remote="github" revision="cm-14.1" />
   <project name="Exodusnick97/android_device_samsung_hero-common" path="device/samsung/hero-common" remote="github" revision="cm-14.1" />
   <!--Kernel-->
-  <project name="LineageOS/android_kernel_samsung_universal8890" path="kernel/samsung/universal8890" remote="github" revision="cm-14.1" />
+  <project name="Exodusnick97/android_kernel_samsung_universal8890" path="kernel/samsung/universal8890" remote="github" revision="cm-14.1" />
   <!--Kernel Toolchain-->
   <project path="prebuilts/gcc/linux-x86/aarch64/aarch64-cortex_a53-linux-gnueabi" name="djb77/aarch64-cortex_a53-linux-gnueabi" remote="github" revision="master" /> 
 </manifest>
