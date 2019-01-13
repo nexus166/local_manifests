@@ -11,6 +11,7 @@
   <project name="los-legacy/android_frameworks_av" path="frameworks/av" remote="github" revision="lineage-15.1" />
   <project name="los-legacy/android_system_core" path="system/core" remote="github" revision="lineage-15.1" />
   <project name="Exodusnick/android_device_samsung_jf-common" path="device/samsung/jf-common" remote="github" revision="lineage-15.1" />
+  <project name="los-legacy/android_device_samsung_jfltexx" path="device/samsung/jfltexx" remote="github" revision="lineage-15.1" />
   <project name="Exodusnick/android_device_samsung_jfvelte-2" path="device/samsung/jfvelte" remote="github" revision="lineage-15.1" />
   <project name="los-legacy/proprietary_vendor_samsung_jf" path="vendor/samsung" remote="github" revision="lineage-15.1" />
   <project name="los-legacy/android_kernel_samsung_jf" path="kernel/samsung/jf" remote="github" revision="lineage-15.1" />
