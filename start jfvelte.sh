@@ -1,11 +1,11 @@
 #!/bin/bash  
 
-cd ~/LineageOS/15.1
+cd ~/LineageOS/15.1 <you have to adjust> 
 make clean
-#cd .repo/local_manifests
-#wget -O roomservice.xml https://raw.githubusercontent.com/Exodusnick/local_manifests/lineage-15.1/jfvelte.xml_Test
-#cd ../..
-#repo sync -c --force-sync --no-clone-bundle --no-tags
+cd .repo/local_manifests
+wget -O roomservice.xml https://raw.githubusercontent.com/Exodusnick/local_manifests/lineage-15.1/jfvelte.xml_Test
+cd ../..
+repo sync -c --force-sync --no-clone-bundle --no-tags
 cd device/samsung/jfve-common/patches
 ./apply.sh
 cd ../../../../prebuilts/sdk/tools
