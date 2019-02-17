@@ -13,7 +13,7 @@
   <project name="Exodusnick/android_device_samsung_jfve-common" path="device/samsung/jfve-common" remote="github" revision="lineage-15.1" />
   <project name="los-legacy/android_device_samsung_jfvelte" path="device/samsung/jfvelte" remote="github" revision="lineage-15.1" />
    <!--Blobs-->
-  <project name="Exodusnick/proprietary_vendor_samsung_jf" path="vendor/samsung" remote="github" revision="lineage-15.1" />
+  <project name="los-legacy/proprietary_vendor_samsung_jf" path="vendor/samsung" remote="github" revision="lineage-15.1" />
   <!--Kernel-->
   <project name="los-legacy/android_kernel_samsung_jf" path="kernel/samsung/jf" remote="github" revision="lineage-15.1" />
 </manifest>
