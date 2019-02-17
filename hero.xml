@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <manifest>
+  <!--is only for me -->
+  <remove-project name="LineageOS/android_packages_apps_Updater" />
+  <project name="Exodusnick/android_packages_apps_Updater" path="packages/apps/Updater" remote="github" revision="cm-14.1" /
   <!--LOS Repos-->
   <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos5" path="hardware/samsung_slsi-cm/exynos5" remote="github" revision="cm-14.1" />
   <project name="LineageOS/android_hardware_samsung_slsi-cm_openmax" path="hardware/samsung_slsi-cm/openmax" remote="github" revision="cm-14.1" />
