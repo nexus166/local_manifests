@@ -18,5 +18,4 @@
   <project name="Exodusnick/proprietary_vendor_samsung_jf" path="vendor/samsung" remote="github" revision="lineage-15.1" />
   <!--Kernel-->
   <project name="los-legacy/android_kernel_samsung_jf" path="kernel/samsung/jf" remote="github" revision="lineage-15.1" />
-  
 </manifest>
