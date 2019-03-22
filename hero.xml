@@ -15,7 +15,7 @@
   <!--Device Repos-->
   <project name="LineageOS/android_device_samsung_herolte" path="device/samsung/hero2lte" remote="github" revision="cm-14.1" />
   <project name="LineageOS/android_device_samsung_hero2lte" path="device/samsung/herolte" remote="github" revision="cm-14.1" />
-  <project name="LineageOS/android_device_samsung_hero-common" path="device/samsung/hero-common" remote="github" revision="cm-14.1" />
+  <project name="Exodusnck/android_device_samsung_hero-common" path="device/samsung/hero-common" remote="github" revision="cm-14.1" />
   <!--Kernel-->
   <project name="LineageOS/android_kernel_samsung_universal8890" path="kernel/samsung/universal8890" remote="github" revision="cm-14.1" />
   <!--Kernel Toolchain-->
