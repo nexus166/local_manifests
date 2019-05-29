@@ -3,7 +3,7 @@
   <!--Device tree-->
   <project name="ivanmeler/android_device_samsung_hero2lte" path="device/samsung/hero2lte" remote="github" revision="lineage-16.0"/>
   <project name="ivanmeler/android_device_samsung_herolte" path="device/samsung/herolte" remote="github" revision="lineage-16.0"/>
-  <project name="Exodusnick/seals_something_anotherhing" path="device/samsung/hero-common" remote="github" revision="16.0-no-bsp"/>
+  <project name="Exodusnick/seals_something_anotherhing" path="device/samsung/hero-common" remote="github" revision="lineage-16.0-nobsp"/>
   <!--Hardware-->
   <project name="ivanmeler/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-15.1"/>
   <!--Kernel-->
