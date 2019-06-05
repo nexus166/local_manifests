@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <manifest>
-  <!--is only for me -->
-  <remove-project name="LineageOS/android_packages_apps_Updater" />
-  <project name="Exodusnick/android_packages_apps_Updater" path="packages/apps/Updater" remote="github" revision="cm-14.1" /> 
    <!--LOS Repos-->
   <project name="LineageOS/android_device_qcom_common" path="device/qcom/common" remote="github" revision="cm-14.1" />
   <project name="LineageOS/android_device_samsung_qcom-common" path="device/samsung/qcom-common" remote="github" revision="cm-14.1" />
